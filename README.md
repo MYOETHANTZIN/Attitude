@@ -1,0 +1,2 @@
+# Attitude
+Attitude is everything.
